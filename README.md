@@ -1,1 +1,2 @@
 # Life-Simulation
+The following project is a life simulation of Pac-man characters using a graphical user interface, inheritance, polymorphism and Object-oriented programming in Java to demonstrate a different take on the famous game. The player could fight characters, increase health by eating apples and also play the role of god by springing new life and/or causing mass destruction to see how life will evolve. 
